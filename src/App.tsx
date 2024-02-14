@@ -1,7 +1,8 @@
 import "./input.css";
 
 function App() {
-  return <>Hello kkjjgjkgjkg </>;
+  return <>
+  </>;
 }
 
 export default App;
